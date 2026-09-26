@@ -3,7 +3,7 @@ export const SITE_CONFIG = {
   title: "Full Stack Developer | .NET & Angular Specialist",
   email: "amitnishad926@gmail.com",
   phone: "+91 97251 48435",
-  linkedin: "https://www.linkedin.com/in/amit-nishad",
+  linkedin: "https://www.linkedin.com/in/amit-nishad-203253279/",
   resumePath: "/resume/Amit-Nishad-Resume.pdf",
 };
 
